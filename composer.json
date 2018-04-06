@@ -1,0 +1,7 @@
+{
+    "name": "isunja/codeception-phpunit-result-report-warning",
+    "type": "metapackage",
+    "require-dev": {
+        "codeception/codeception": "^2.4"
+    }
+}
