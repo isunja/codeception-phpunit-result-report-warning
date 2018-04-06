@@ -1,0 +1,1 @@
+# codeception-phpunit-result-report-warning
